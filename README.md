@@ -1,9 +1,9 @@
 # Yonghwan's Github
 
-Hi! I am Yonghwan Kim!
-
 ## Info
+Yonghwan Kim
 Degree: BS Computer Science Graduate (Minor - Business) at Texas A&M  
+<img src="https://brandguide.tamu.edu/assets/img/logos/stack-white.png">
 Interest fields: Blockchain, Web development, and LLM (GPT)  
 ### Experience: 
 Blockchain Developer Intern @ LG Uplus - Jun 2023 ~ Jul 2023  
