@@ -11,7 +11,7 @@ Korean Army - Jun 2020 ~ Dec 2021
 TAMU BS Computer Science - Aug 2018 ~ May 2020  
 ### Tech Stack:
 <div>
-   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" disabled>
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
