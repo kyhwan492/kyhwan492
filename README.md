@@ -3,11 +3,11 @@
 Hi! I am Yonghwan Kim!
 
 ## Info
-Degree: BS Computer Science Graduate @ TAMU  
-Interest fields: Blockchain (Web3), Web development ,and LLM (GPT)  
+Degree: BS Computer Science Graduate (Minor - Business) at Texas A&M  
+Interest fields: Blockchain, Web development, and LLM (GPT)  
 ### Experience: 
 Blockchain Developer Intern @ LG Uplus - Jun 2023 ~ Jul 2023  
-TAMU BS Computer Science (Minor: Business) - Jan 2022 ~ Dec 2023  
+TAMU BS Computer Science (Minor - Business) - Jan 2022 ~ Dec 2023  
 Korean Army - Jun 2020 ~ Dec 2021  
 TAMU BS Computer Science - Aug 2018 ~ May 2020  
 ### Tech Stack:
