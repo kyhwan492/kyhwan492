@@ -3,7 +3,7 @@ Degree: BS Computer Science Graduate (Minor - Business) at Texas A&M
 <img src="https://brandguide.tamu.edu/assets/img/logos/stack-white.png" width="300">  
 Interest fields: Blockchain, Web development, and LLM (GPT)  
 ### Experience: 
-<img src="[https://i.namu.wiki/i/kHhkQLKphWv78DtCv2D0BT9GcBt-hKLY0wqQMgF0D0ej5zgh0WlGEU1mnqBlV91Tac9zdzwSMG9rLhloMpArqg.svg](https://i.namu.wiki/i/kHhkQLKphWv78DtCv2D0BT9GcBt-hKLY0wqQMgF0D0ej5zgh0WlGEU1mnqBlV91Tac9zdzwSMG9rLhloMpArqg.svg)" width="300"> 
+<img src="https://i.namu.wiki/i/kHhkQLKphWv78DtCv2D0BT9GcBt-hKLY0wqQMgF0D0ej5zgh0WlGEU1mnqBlV91Tac9zdzwSMG9rLhloMpArqg.svg" width="300"> 
 Blockchain Developer Intern @ LG Uplus - Jun 2023 ~ Jul 2023  
 TAMU BS Computer Science (Minor - Business) - Jan 2022 ~ Dec 2023  
 Korean Army - Jun 2020 ~ Dec 2021  
