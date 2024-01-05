@@ -23,7 +23,7 @@ Libraries & Tools: Vue.js, React.js, Node.js, Langchain, Ether.js, Ruby on Rails
 
 ## Contact 
 <a href="https://www.linkedin.com/in/kyhwan492" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <a href="https://github.com/yhwan492" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github/>  
