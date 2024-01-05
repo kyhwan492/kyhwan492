@@ -23,8 +23,8 @@ TAMU BS Computer Science - Aug 2018 ~ May 2020
    
    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
    
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+   
+   <img src="https://img.shields.io/badge/Open Ai-412991?style=for-the-badge&logo=openai&logoColor=white">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
    
@@ -32,10 +32,12 @@ TAMU BS Computer Science - Aug 2018 ~ May 2020
    <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=MySQL&logoColor=white">
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-   <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
+   <img src="https://img.shields.io/badge/ether.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
    <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+   <img src="https://img.shields.io/badge/Langchain-013243?style=for-the-badge">
 </div>
 
 Programming Languages: Python, C++, Javascript, Java, Typescript, Solidity, Ruby
