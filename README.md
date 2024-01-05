@@ -25,6 +25,8 @@ TAMU BS Computer Science - Aug 2018 ~ May 2020
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
    <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=MySQL&logoColor=white">
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+   <img src="https://img.shields.io/badge/ethereum-430098?style=for-the-badge&logo=ethereum&logoColor=white">
 </div>
 
 Programming Languages: Python, C++, Javascript, Java, Typescript, Solidity, Ruby
