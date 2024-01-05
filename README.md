@@ -20,17 +20,12 @@ TAMU BS Computer Science - Aug 2018 ~ May 2020
    <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
    <img src="https://img.shields.io/badge/rubyonrails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white">
    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-   
    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-   
-   
-   <img src="https://img.shields.io/badge/Open Ai-412991?style=for-the-badge&logo=openai&logoColor=white">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-   
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
+   
    <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=MySQL&logoColor=white">
-   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
    <img src="https://img.shields.io/badge/ether.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
@@ -38,6 +33,8 @@ TAMU BS Computer Science - Aug 2018 ~ May 2020
    <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
    <img src="https://img.shields.io/badge/Langchain-013243?style=for-the-badge">
+   <img src="https://img.shields.io/badge/OpenAi-412991?style=for-the-badge&logo=openai&logoColor=white">
+   <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </div>
 
 Programming Languages: Python, C++, Javascript, Java, Typescript, Solidity, Ruby
