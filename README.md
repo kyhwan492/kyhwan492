@@ -18,6 +18,8 @@ Libraries & Tools: Vue.js, React.js, Node.js, Langchain, Ether.js, Ruby on Rails
 Email: kyhwan492@gmail.com  
 LinkedIn: https://www.linkedin.com/in/kyhwan492/
 
+![yhwan492's github stats](https://github-readme-stats.vercel.app/api?username=yhwan492&show_icons=true)
+
 <!--
 **yhwan492/yhwan492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
