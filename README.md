@@ -32,7 +32,7 @@ TAMU BS Computer Science - Aug 2018 ~ May 2020
    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
    <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-   <img src="https://img.shields.io/badge/Langchain-25c2a0?style=for-the-badge">
+   <img src="https://img.shields.io/badge/🐦Langchain-25c2a0?style=for-the-badge">
    <img src="https://img.shields.io/badge/OpenAi-412991?style=for-the-badge&logo=openai&logoColor=white">
    <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </div>
