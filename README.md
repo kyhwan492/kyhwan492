@@ -13,13 +13,13 @@ TAMU BS Computer Science - Aug 2018 ~ May 2020
 ### Tech Stack:
 <div>
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-   <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=python&logoColor=white">
+   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-   <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=python&logoColor=white">
-   <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=python&logoColor=white">
-   <img src="https://img.shields.io/badge/reactdotjs-61DAFB?style=for-the-badge&logo=python&logoColor=white">
-   <img src="https://img.shields.io/badge/rubyonrails-D30001?style=for-the-badge&logo=python&logoColor=white">
+   <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">
+   <img src="https://img.shields.io/badge/reactdotjs-61DAFB?style=for-the-badge&logo=reactdotjs&logoColor=white">
+   <img src="https://img.shields.io/badge/rubyonrails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white">
    <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=python&logoColor=white">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
