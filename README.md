@@ -14,7 +14,7 @@ TAMU BS Computer Science - Aug 2018 ~ May 2020
 Programming Languages: Python, C++, Javascript, Java, Typescript, Solidity, Ruby
 Libraries & Tools: Vue.js, React.js, Node.js, Langchain, Ether.js, Ruby on Rails, Numpy, Git, Docker, Jira, Heroku pipeline,
 
-## Contact:link: 
+## Contact 
 Email: kyhwan492@gmail.com  
 LinkedIn: https://www.linkedin.com/in/kyhwan492/
 
