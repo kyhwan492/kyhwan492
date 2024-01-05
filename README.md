@@ -42,13 +42,13 @@ Libraries & Tools: Vue.js, React.js, Node.js, Langchain, Ether.js, Ruby on Rails
 
 ## Contact 
 <a href="https://www.linkedin.com/in/kyhwan492" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/linkedin:_Yonghwan Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <a href="https://github.com/yhwan492" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github/></a>
+<img src=https://img.shields.io/badge/github:_Yonghwan-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github/></a>
 
 <a href="mailto:kyhwan492@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail/></a>
+<img src=https://img.shields.io/badge/gmail:_kyhwan492@gmail.com-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail/></a>
 
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyhwan492&count_bg=%23E0FFFC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
