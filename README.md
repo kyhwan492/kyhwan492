@@ -4,6 +4,8 @@ Degree: BS Computer Science Graduate (Minor - Business) at Texas A&M
 Interest fields: Blockchain, Web development, and LLM (GPT)  
 ### Experience: 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/1200px-LG_U%2B_CI.svg.png" width="300"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Coat_of_arms_of_the_Republic_of_Korea_Army.svg/1200px-Coat_of_arms_of_the_Republic_of_Korea_Army.svg.png" width="300"> 
+
 Blockchain Developer Intern @ LG Uplus - Jun 2023 ~ Jul 2023  
 TAMU BS Computer Science (Minor - Business) - Jan 2022 ~ Dec 2023  
 Korean Army - Jun 2020 ~ Dec 2021  
