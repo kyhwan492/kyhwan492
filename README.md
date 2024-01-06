@@ -4,9 +4,9 @@ Degree: BS Computer Science Graduate (Minor - Business) at Texas A&M
 Interest fields: Blockchain, Web development, and LLM (GPT)  
 ### Experience: 
 <div>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/1200px-LG_U%2B_CI.svg.png" width="300" alt="LG Uplus"> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/1200px-LG_U%2B_CI.svg.png" width="300" alt="LG Uplus"> <a>Blockchain Developer Intern</a>
    
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Coat_of_arms_of_the_Republic_of_Korea_Army.svg/1200px-Coat_of_arms_of_the_Republic_of_Korea_Army.svg.png" height="100" alt="Republic of Korea Army"> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Coat_of_arms_of_the_Republic_of_Korea_Army.svg/1200px-Coat_of_arms_of_the_Republic_of_Korea_Army.svg.png" height="100" alt="Republic of Korea Army"> <a>Sergeant</a>
 </div>
 
 
