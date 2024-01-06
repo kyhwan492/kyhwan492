@@ -9,11 +9,6 @@ Interest fields: Blockchain, Web development, and LLM (GPT)
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Coat_of_arms_of_the_Republic_of_Korea_Army.svg/1200px-Coat_of_arms_of_the_Republic_of_Korea_Army.svg.png" height="100" alt="Republic of Korea Army"> <a>Sergeant</a>
 </div>
 
-
-Blockchain Developer Intern @ LG Uplus - Jun 2023 ~ Jul 2023  
-TAMU BS Computer Science (Minor - Business) - Jan 2022 ~ Dec 2023  
-Korean Army - Jun 2020 ~ Dec 2021  
-TAMU BS Computer Science - Aug 2018 ~ May 2020  
 ### Tech Stack:
 <div>
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
