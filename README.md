@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Yonghwan's_Github&fontSize=70)
 # Yonghwan Kim's Github
 Degree: BS Computer Science Graduate (Minor - Business) at Texas A&M  
 <img src="https://brandguide.tamu.edu/assets/img/logos/stack-white.png" width="300">  
