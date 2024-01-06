@@ -3,9 +3,6 @@
       <img src="https://brandguide.tamu.edu/assets/img/logos/stack-white.png" width="300" alt="Texas A&M Logo">  
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/1200px-LG_U%2B_CI.svg.png" width="300" alt="LG Uplus Logo">
 </div>
-
-
-
 ### Tech Stack:
 <div>
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -49,7 +46,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyhwan492&count_bg=%23E0FFFC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![yhwan492's github stats](https://github-readme-stats.vercel.app/api?username=yhwan492&show_icons=true)
+![yhwan492's github stats](https://github-readme-stats.vercel.app/api?username=yhwan492&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhwan492&layout=compact)
 
 <!--
 **yhwan492/yhwan492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
