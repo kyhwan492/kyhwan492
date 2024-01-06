@@ -2,7 +2,7 @@
 <div style="display: flex; flex-wrap: wrap;">
    <div style="flex: 1; width: 50%;">
       <h4>Education</h4>
-      <h5>BS Computer Science Graduate (Minor - Business) at Texas A&M</h5>
+      <h5>BS Computer Science Graduate (Minor - Business)</h5>
       <img src="https://brandguide.tamu.edu/assets/img/logos/stack-white.png" width="300" alt="Texas A&M Logo">  
    </div>
 
