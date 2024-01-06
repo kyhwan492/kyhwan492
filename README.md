@@ -33,7 +33,7 @@
    <img src="https://img.shields.io/badge/OpenAi-412991?style=for-the-badge&logo=openai&logoColor=white">
    <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </div>
-![Yonghwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhwan492&show_icons=true&theme=transparent)
+![yhwan492's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhwan492&show_icons=true&theme=transparent)
 
 ## Contact 
 <a href="https://www.linkedin.com/in/kyhwan492" target="_blank">
