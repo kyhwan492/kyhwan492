@@ -4,7 +4,7 @@ class Yonghwan_Kim():
   def __init__(self):
       self.name = "Yonghwan Kim"
       self.username = "yhwan492"
-      self.degree = "BS Computer Science @ TAMU"
+      self.degree = "BS Computer Science @ TAMU"      # Minor - Business
       self.exprience = "Blockchain Developer Intern @ LG Uplus"
       self.email = "kyhwan492@gmail.com"
 
