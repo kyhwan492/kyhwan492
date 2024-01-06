@@ -2,16 +2,16 @@
 ```python
 class Yonghwan_Kim():
   def __init__(self):
-      self.name = Yonghwan Kim
-      self.username = yhwan492
-      self.email = kyhwan492@gmail.com
-      self.degree = BS Computer Science @ TAMU
-      self.exprience = Blockchain Developer Intern @ LG Uplus
+      self.name = "Yonghwan Kim"
+      self.username = "yhwan492"
+      self.degree = "BS Computer Science @ TAMU"
+      self.exprience = "Blockchain Developer Intern @ LG Uplus"
+      self.email = "kyhwan492@gmail.com"
 
   def interest_field(self):
-      Blockchain = True      # ETH, Bitcoin
-      LLM = True             # GPT
-      Web = True             # Full Stack
+      Blockchain = True      # ETH, Bitcoin ...
+      LLM = True             # GPT, Langchain ...
+      Web = True             # Full Stack ...
 ```
 
 ## Tech Stack:
