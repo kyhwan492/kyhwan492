@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f2f5ff&height=150&section=header&text=Yonghwan's%20Github&fontSize=40&animation=fadeIn&fontAlignY=35)  
-BS Computer Science Graduate (Minor - Business) at Texas A&M  
-<img src="https://brandguide.tamu.edu/assets/img/logos/stack-white.png" width="250">  
-### Experience: 
 <div>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/1200px-LG_U%2B_CI.svg.png" width="300" alt="LG Uplus"> <a>Blockchain Developer Intern</a>
+   ### Education  
+   BS Computer Science Graduate (Minor - Business) at Texas A&M  
+   <img src="https://brandguide.tamu.edu/assets/img/logos/stack-white.png" width="300">  
+   ### Experience  
+   <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/1200px-LG_U%2B_CI.svg.png" width="300" alt="LG Uplus"> <a>Blockchain Developer Intern</a>
+   </div>
 </div>
+
 
 ### Tech Stack:
 <div>
