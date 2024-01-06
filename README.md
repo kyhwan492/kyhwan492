@@ -6,6 +6,7 @@ class Yonghwan_Kim():
       self.username = yhwan492
       self.email = kyhwan492@gmail.com
       self.degree = BS Computer Science @ TAMU
+      self.exprience = Blockchain Developer Intern @ LG Uplus
 
   def interest_field(self):
       Blockchain = True      # ETH, Bitcoin
@@ -51,14 +52,14 @@ class Yonghwan_Kim():
 
 <a href="mailto:kyhwan492@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail:_kyhwan492@gmail.com-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail/></a>
-
+<!--
 ### Github Stat
 <a href="https://github.com/yhwan492">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yhwan492&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/yhwan492">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhwan492&layout=compact&langs_count=8&theme=transparent" />
-</a>
+</a> -->
 
 ### Repo
 <a href="https://github.com/yhwan492/JungBoss">
