@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Yonghwan's%20Github&fontSize=70)
-# Yonghwan Kim's Github
-Degree: BS Computer Science Graduate (Minor - Business) at Texas A&M  
-<img src="https://brandguide.tamu.edu/assets/img/logos/stack-white.png" width="300">  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Yonghwan's%20Github&fontSize=50)
+BS Computer Science Graduate (Minor - Business) at Texas A&M  
+<img src="https://brandguide.tamu.edu/assets/img/logos/stack-white.png" width="200">  
 Interest fields: Blockchain, Web development, and LLM (GPT)  
 ### Experience: 
 <div>
