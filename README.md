@@ -50,7 +50,7 @@
 
 
 ![yhwan492's github stats](https://github-readme-stats.vercel.app/api?username=yhwan492&show_icons=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhwan492&layout=compact)
 <!--
 **yhwan492/yhwan492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
