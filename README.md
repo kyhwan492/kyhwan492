@@ -14,7 +14,7 @@ class Yonghwan_Kim():
       Web = True             # Full Stack ...
 ```
 
-## Tech Stack:
+### Tech Stack
 <div>
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -43,7 +43,7 @@ class Yonghwan_Kim():
   
 </div>
 
-## Contact 
+### Contact 
 <a href="https://www.linkedin.com/in/kyhwan492" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:_Yonghwan Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
