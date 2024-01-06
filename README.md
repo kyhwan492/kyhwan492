@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yonghwan's%20Github&fontSize=30&animation=fadeIn&fontAlignY=30)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Yonghwan's%20Github&fontSize=40&animation=fadeIn&fontAlignY=40)  
 BS Computer Science Graduate (Minor - Business) at Texas A&M  
 <img src="https://brandguide.tamu.edu/assets/img/logos/stack-white.png" width="200">  
 ### Experience: 
