@@ -2,15 +2,15 @@
 <div style="display: flex; flex-wrap: wrap;">
    <div style="flex: 1; width: 50%;">
       <h4>Education</h4>
-      
-      BS Computer Science Graduate (Minor - Business) at Texas A&M  
+      <h5>BS Computer Science Graduate (Minor - Business) at Texas A&M</h5>
       <img src="https://brandguide.tamu.edu/assets/img/logos/stack-white.png" width="300" alt="Texas A&M Logo">  
    </div>
 
    <div style="flex: 1; width: 50%;">
       <h4>Experience</h4>
       <div>
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/1200px-LG_U%2B_CI.svg.png" width="300" alt="LG Uplus Logo"> <a>Blockchain Developer Intern</a>
+         <h5>Blockchain Developer Intern</h5>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/1200px-LG_U%2B_CI.svg.png" width="300" alt="LG Uplus Logo">
       </div>
    </div>
 </div>
