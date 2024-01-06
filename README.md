@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f2f5ff&height=150&section=header&text=Yonghwan's%20Github&fontSize=40&animation=fadeIn&fontAlignY=35)  
 <div style="display: flex; flex-wrap: wrap;">
       <img src="https://brandguide.tamu.edu/assets/img/logos/stack-white.png" width="300" alt="Texas A&M Logo">  
-      <div>
-         <h5>Blockchain Developer Intern</h5>
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/1200px-LG_U%2B_CI.svg.png" width="300" alt="LG Uplus Logo">
-      </div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/1200px-LG_U%2B_CI.svg.png" width="300" alt="LG Uplus Logo">
 </div>
 
 
