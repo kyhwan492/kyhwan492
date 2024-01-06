@@ -4,7 +4,14 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/LG_U%2B_CI.svg/1200px-LG_U%2B_CI.svg.png" width="300" alt="LG Uplus Logo">
 </div>
 
-
+```python
+class Yonghwan_Kim():
+  def __init__(self):
+      self.name = Yonghwan Kim
+      self.username = yhwan492
+      self.email = kyhwan492@gmail.com
+      self.degree = BS Computer Science @ TAMU
+```
 
 ### Tech Stack:
 <div>
@@ -52,7 +59,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhwan492&layout=compact&langs_count=8&theme=transparent" />
 </a>
 
-![Readme Card]()
 <a href="https://github.com/yhwan492/JungBoss">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhwan492&repo=JungBoss&theme=transparent" />
 </a>
