@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 # Yonghwan Kim's Github
 Degree: BS Computer Science Graduate (Minor - Business) at Texas A&M  
 <img src="https://brandguide.tamu.edu/assets/img/logos/stack-white.png" width="300">  
@@ -36,9 +37,6 @@ Interest fields: Blockchain, Web development, and LLM (GPT)
    <img src="https://img.shields.io/badge/OpenAi-412991?style=for-the-badge&logo=openai&logoColor=white">
    <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </div>
-
-Programming Languages: Python, C++, Javascript, Java, Typescript, Solidity, Ruby
-Libraries & Tools: Vue.js, React.js, Node.js, Langchain, Ether.js, Ruby on Rails, Numpy, Git, Docker, Jira, Heroku pipeline,
 
 ## Contact 
 <a href="https://www.linkedin.com/in/kyhwan492" target="_blank">
