@@ -49,8 +49,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyhwan492&count_bg=%23E0FFFC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![yhwan492's github stats](https://github-readme-stats.vercel.app/api?username=yhwan492&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhwan492&layout=compact&langs_count=8&theme=transparent)
+![yhwan492's github stats]()
+![Top Langs]()
+<a href="https://github.com/yhwan492">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yhwan492&show_icons=true" />
+</a>
+<a href="https://github.com/yhwan492">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhwan492&layout=compact&langs_count=8&theme=transparent" />
+</a>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yhwan492&repo=JungBoss)
 <!--
