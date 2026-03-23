@@ -1,84 +1,77 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f2f5ff&height=150&section=header&text=Yonghwan's%20Github&fontSize=40&animation=fadeIn&fontAlignY=35)  
-```python
-class Yonghwan_Kim():
-  def __init__(self):
-      self.name = "Yonghwan Kim"
-      self.username = "kyhwan492"
-      self.degree = "BS Computer Science @ TAMU"      # Minor - Business
-      self.exprience = "Blockchain Developer Intern @ LG Uplus"
-      self.email = "kyhwan492@gmail.com"
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:3b82f6&height=150&section=header&text=Yonghwan%20Kim&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff)
 
-  def interest_field(self):
-      Blockchain = True      # ETH, Bitcoin ...
-      LLM = True             # GPT, Langchain ...
-      Web = True             # Full Stack ...
-```
+[![Backend Developer](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F_Backend_Developer-6e40c9?style=for-the-badge)](https://github.com/kyhwan492) [![AI Agent Engineer](https://img.shields.io/badge/%F0%9F%A4%96_AI_Agent_Engineer-3b82f6?style=for-the-badge)](https://github.com/kyhwan492)
+
+> 2 years building backend systems & AI agents @ LG Uplus
+
+### What I Do
+
+- ⚙️ **Backend** — Designing and building scalable server-side systems and APIs
+- 🤖 **AI Agents** — Engineering LLM-powered agents and automation workflows
+- ⛓️ **Blockchain** — Background in smart contracts and Web3 development
 
 ### Tech Stack
+
+**Languages**
 <div>
-   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-   <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">
-   <img src="https://img.shields.io/badge/rubyonrails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white">
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
-   <br>
-   <img src="https://img.shields.io/badge/🐦Langchain-25c2a0?style=for-the-badge">
-   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=MySQL&logoColor=white">
-   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
-   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-   <img src="https://img.shields.io/badge/OpenAi-412991?style=for-the-badge&logo=openai&logoColor=white">
-   <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
-   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-   <img src="https://img.shields.io/badge/ether.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
-   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </div>
 
-### Contact 
-<a href="https://www.linkedin.com/in/kyhwan492" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:_Yonghwan Kim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+**Backend**
+<div>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img alt="JPA" src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Bun" src="https://img.shields.io/badge/Bun-FBF0DF?style=for-the-badge&logo=bun&logoColor=black">
+</div>
 
-<a href="https://github.com/yhwan492" target="_blank">
-<img src=https://img.shields.io/badge/github:_Yonghwan-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github/></a>
+**AI / ML**
+<div>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-25c2a0?style=for-the-badge">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
+</div>
 
-<a href="mailto:kyhwan492@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail:_kyhwan492@gmail.com-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail/></a>
-<!--
-### Github Stat
-<a href="https://github.com/yhwan492">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yhwan492&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/yhwan492">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhwan492&layout=compact&langs_count=8&theme=transparent" />
-</a> -->
+**Blockchain**
+<div>
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+  <img alt="Ethers.js" src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge">
+  <img alt="permissionless.js" src="https://img.shields.io/badge/permissionless.js-555555?style=for-the-badge">
+</div>
 
-### Repo
-<a href="https://github.com/yhwan492/JungBoss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhwan492&repo=JungBoss&theme=transparent" />
-</a>
-<a href="https://github.com/yhwan492/capstone-kyndryl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yhwan492&repo=capstone-kyndryl&theme=transparent" />
-</a>
-<!--
-**yhwan492/yhwan492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Security / Crypto**
+<div>
+  <img alt="PQC-KEM" src="https://img.shields.io/badge/PQC--KEM-555555?style=for-the-badge">
+  <img alt="PASETO" src="https://img.shields.io/badge/PASETO-555555?style=for-the-badge">
+  <img alt="AES" src="https://img.shields.io/badge/AES-555555?style=for-the-badge">
+  <img alt="RSA" src="https://img.shields.io/badge/RSA-555555?style=for-the-badge">
+  <img alt="secp256k1" src="https://img.shields.io/badge/secp256k1-555555?style=for-the-badge">
+  <img alt="ECDSA" src="https://img.shields.io/badge/ECDSA-555555?style=for-the-badge">
+</div>
 
-Here are some ideas to get you started:
+**Tools**
+<div>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img alt="cmux" src="https://img.shields.io/badge/cmux-555555?style=for-the-badge">
+  <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-555555?style=for-the-badge">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyhwan492)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyhwan492)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyhwan492@gmail.com)
